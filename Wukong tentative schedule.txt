@@ -1,0 +1,66 @@
+Waking Android Schedule by Howard
+
+- Home
+  - Buttons     			completed
+  - Color/Design 			1hr
+- Login
+  - EditText				completed
+  - Buttons 				completed
+  - Color/Design			1hr
+  - back button 			1hr
+- About
+  - Textbox 				1hr
+  - Buttons(buy+back)			1hr
+————————————————————————————————————————————————
+					5hr
+
+- Dashboard
+  - Listview Adjustments
+	- Bg fit src pic		1hr
+	- Pressed bg change		2hr
+	- Pressed intent		1hr
+	- Redesign String output	
+	  - BP 				2hr
+	  - ET				1hr
+	  - Weight 			1hr
+	  - BG 				1hr
+	  - Steps			3hr
+	  - Activity			3hr
+  - HTTP JSON import
+	- retrieve server data		3hr
+	- parse JSON to elements	6hr
+  - Setting
+	- Change icon 			1hr
+	- Shift left			1hr
+	- Create Slider
+	  - Create base (relative)	3hr
+	  - User picture		1hr
+	  - Add options			4hr
+	  - Add intent for each		2hr
+————————————————————————————————————————————————
+					36hr
+
+- BP
+  - Drag web view box 			2hr
+  - configure web view 			4hr
+  - link intent + back 			1hr
+- ET					4hr
+- Weight 				4hr
+- BG 					4hr
+- Steps 				4hr
+- Activity 				4hr
+————————————————————————————————————————————————
+					27hr
+
+- My Family 
+  - Create Listview 			4hr
+  - Fetch account and config 		3hr
+————————————————————————————————————————————————
+					7hr
+
+- Sharing
+  - Create Listview w/ button 		4hr
+  - Create tab 				4hr
+  - Sharing Config 			7hr
+————————————————————————————————————————————————
+					15hr
